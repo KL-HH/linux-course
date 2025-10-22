@@ -6,5 +6,4 @@ a) My first task was to create this file
 
 Aiming to pass the course, hopefully with 4.
 
-$ ls
-hello hello
+Check out our uni: [https://www.haaga-helia.fi/en](https://www.haaga-helia.fi/en)
