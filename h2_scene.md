@@ -1,4 +1,4 @@
-# Scams
+# Bank cards under attack
 I was reading a blog about a Wall Street Journal article posted in Schneider's blog:
 https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html
 
