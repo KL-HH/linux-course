@@ -1,4 +1,13 @@
-# Bank cards under attack
+# a) Hijacked Line - what motivates cyber criminals go after the crown jewels?
+I chose to analyse a Darknet Diaries episode "Hijacked Line" (episode 154, https://darknetdiaries.com/episode/154/). This is a story about a teenager (13 year old) named Connor who got carried away by the feeling of being in power in digital world, that could make him possibly even rich one day. From hacking games to accounts, and from accounts to identities, he was able to go after the crown jewels at that time: cryptocurrency. As the heists went on, conscience and fear of getting caught started to kick in, but it was too late. His fellow cyber criminal friend was caught, and path lead to him getting him sentenced in jail. After his release - and luckily for his conscience - he was able to turn his past experience to do good and help others to fight against cyber criminals.
+
+My main points about the episode wrapped in my analysis:
+- You can get hooked in having power over things, which can be power of changing environment (e.g. cheating or hacking new skills or possesions in games), or power over people (stealing accounts). It gives you sense of being able to control what was uncontrollable before because lack of abilities in general.
+- Eventually you can get more greedy, as well as in money but also in power after gaining skills in hacking: from hacking individual accounts you proceed something else as SIM swapping, allowing you to switch your identity and becoming in the center of the attack looking at different direction to proceed. E.g. SIM swapping allows you to reset email password, and that allows you to reset other accounts easily, and thus gain access to more accounts, even cryptocurrency.
+- Conscience with the real risk of being caught can act as a motivation to stop - and to change the course of direction in your life.
+
+
+# b) Bank cards under attack
 I was reading a blog about a Wall Street Journal article posted in Schneider's blog:
 https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html
 
@@ -9,6 +18,5 @@ Here are my main points about the blog:
 
 ## What to do?
 
-I wonder, why the banking institutions have been built such a way, that the money couldn't be forcefully transferred back to the owner? I mean, what if there would be a system, that the money "earned" criminal way can be taken back? Yes I know, there are a lot of issues in this, but as a play of thought, what if the banking world would work like that?
+By listening to the Hijacked Line episode it makde me think the motivation of these cyber criminals. Are these just little kids playing around or organized criminals? I guess the concience for many people would kick in, if there would be a real risk of being caught. Should internet be developed towards "identified users"? But what if this act of stealing credit cards is somewhat supported by the government (by not caring, or by not having resources to solve them, or just simply because the actors are part of the government)? That would of course create a sense of protection, so what would act as a conscious to stop act that would generally be consider as criminal. Political needle can change in this dramatically.
 
-Of course there are issues in this... That if you cash out the money gained criminal way from the bank you can't get it back to the owner, unless we "create" money out of nothing by allowing the accounts of cyber criminals to go negative. But at least when the account is negative, the criminals would owe the bank after that. I would think, that banks would be very careful not to let suspicious activity to happen so easily and would want to solve origins of the money more carefully. Otherwise they face the risk to run out of business very fast. I know there are a lot of issues in this, but I'm visualizing my ideal kind of world where the criminals wouldn't find an easy way to "earn" money. What's your way?
