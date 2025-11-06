@@ -54,4 +54,5 @@ summer
 
 
 <img width="812" height="46" alt="image" src="https://github.com/user-attachments/assets/53ca66f3-5444-4656-bbac-3a497a6eb1a7" />
-I don't know why it says it couldn't find the file, when it read the file, but the answer is still there. But that's not the weirdest part, but... Seriously... Who uses 'summer' as password? 
+
+I don't know why it says it couldn't find the file 'rockyou.txt', when it read the file and got te answer. But that's not the weirdest part... Seriously... Who uses 'summer' as password? 
