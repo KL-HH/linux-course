@@ -42,14 +42,8 @@ So, let's put that hashed string back just after "-m 0", where 0 refers to MD5 m
 
 <img width="800" height="43" alt="image" src="https://github.com/user-attachments/assets/cefcb941-0a81-4005-a861-a2688ec98baf" />
 
-Hashing is ready when the next prompt is available
 
-  <img width="816" height="76" alt="image" src="https://github.com/user-attachments/assets/f814b5f5-b731-47ba-b067-03d369cb8536" />
-
-
-  <img width="682" height="68" alt="image" src="https://github.com/user-attachments/assets/6d227378-d982-4a31-bbe1-70e2562ad41e" />
-
-As a sidenote... I encountered several times error messages, and the reason was in my settings. At this time I had to shut down the virtual machine and start over, increase RAM to 4gb and video memory to 128MB. After that I got this message:
+As a sidenote... I encountered several times error messages, and the reason was in my settings. At this time I had to shut down the virtual machine and start over, increase RAM to 4gb and video memory to 128MB. After that I repeated some steps to get back here, and then got this message:
 
 <img width="763" height="511" alt="image" src="https://github.com/user-attachments/assets/4fe07f2f-7b3b-4911-b2fb-2bcd6be4f15f" />
 
