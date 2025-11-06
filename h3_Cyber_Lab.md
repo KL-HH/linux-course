@@ -11,4 +11,15 @@ Here is my summary for the "Command Line Basics Revisited" by Tero: https://tero
 Here is my summary for the "Cracking Passwords with Hashcat" by Tero: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
 - Passwords are stored in the system hashed, so it is very high in entropy, and you can not reverse engineer it back. But you can guess it by using some words in the dictionary and see if it matches.
 - First we need to install the Hashcat. It will help to download already a list of most common passwords.
+
+
+# d) 
+- Ok, I've started by installing the hashid hashcat, ne directory, 
+$ sudo apt-get -y install hashid hashcat wget
+$ mkdir hashed
+$ cd hashed
+<img width="811" height="144" alt="image" src="https://github.com/user-attachments/assets/de14dd66-e9fd-4389-b33b-ae1df60bc21c" />
+
 - 
+
+
