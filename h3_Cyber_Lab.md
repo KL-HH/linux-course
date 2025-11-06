@@ -27,9 +27,6 @@ Then we get the dictionary of most common passwords
 - $ wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
 - (Dont write 'rm rockyou.txt.tar.gz' as it will delete the file, I think)
 
-<img width="684" height="207" alt="image" src="https://github.com/user-attachments/assets/7f1939a6-fb6b-4d71-92ab-134b51847bed" />
-
-
 <img width="584" height="108" alt="image" src="https://github.com/user-attachments/assets/27b1fe55-1071-4ddc-b9fb-bd504b0eb947" />
 
 
