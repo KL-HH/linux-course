@@ -20,12 +20,12 @@ The goal is to crack the password "6b1628b016dff46e6fa35684be6acc96". For this, 
 Ok, I've started by installing the hashcat directory. 
 - $ sudo apt-get -y install hashid hashcat wget
 - $ mkdir hashed
-- $ cd hashed
+- Let's start the haschat by typing '$ cd hashed'
 <img width="811" height="144" alt="image" src="https://github.com/user-attachments/assets/de14dd66-e9fd-4389-b33b-ae1df60bc21c" />
 
 Then we get the dictionary of most common passwords
 - $ wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
-- (Dont write 'rm rockyou.txt.tar.gz' as it will delete the file)
+- (Dont write 'rm rockyou.txt.tar.gz' as it will delete the file, I think)
 
 <img width="684" height="207" alt="image" src="https://github.com/user-attachments/assets/7f1939a6-fb6b-4d71-92ab-134b51847bed" />
 
