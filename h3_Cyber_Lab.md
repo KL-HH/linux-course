@@ -40,8 +40,7 @@ Next, the Hashcat offers different methods to crack the code. We use the common 
 
 So, let's put that hashed string back just after "-m 0", where 0 refers to MD5 mode. We put the hashed value inside single quoation in case of special characters. We also ask to look for the value from the rockyou.txt file. We save the solution in file named "solved" by using command -o solved
 
-
-<img width="816" height="76" alt="image" src="https://github.com/user-attachments/assets/5679ec11-1f03-4f92-b6b0-8ec81dfbb4ea" />
+<img width="800" height="43" alt="image" src="https://github.com/user-attachments/assets/cefcb941-0a81-4005-a861-a2688ec98baf" />
 
 Hashing is ready when the next prompt is available
 
