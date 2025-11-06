@@ -17,15 +17,15 @@ Here is my summary for the "Cracking Passwords with Hashcat" by Tero: https://te
 # d) 
 The goal is to crack the password "6b1628b016dff46e6fa35684be6acc96". For this, we need to install hashcat. Let's see how it goes.
 
-- Ok, I've started by installing the hashcat directory. 
--- $ sudo apt-get -y install hashid hashcat wget
--- $ mkdir hashed
--- $ cd hashed
+Ok, I've started by installing the hashcat directory. 
+- $ sudo apt-get -y install hashid hashcat wget
+- $ mkdir hashed
+- $ cd hashed
 <img width="811" height="144" alt="image" src="https://github.com/user-attachments/assets/de14dd66-e9fd-4389-b33b-ae1df60bc21c" />
 
-- Then we get the dictionary of most common passwords
-$ wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
-(don't type rm rockyou.txt.tar.gz as it will delete the file)
+Then we get the dictionary of most common passwords
+- $ wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+- (Dont write 'rm rockyou.txt.tar.gz' as it will delete the file)
 
 <img width="684" height="207" alt="image" src="https://github.com/user-attachments/assets/7f1939a6-fb6b-4d71-92ab-134b51847bed" />
 
@@ -33,30 +33,30 @@ $ wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Da
 <img width="584" height="108" alt="image" src="https://github.com/user-attachments/assets/27b1fe55-1071-4ddc-b9fb-bd504b0eb947" />
 
 
-- we can check the file content (top ones from the file)
+we can check the file content (top ones from the file)
 <img width="363" height="122" alt="image" src="https://github.com/user-attachments/assets/20dd1e92-0b76-4665-b40d-195ad2a1df61" />
 
-- Next, the Hashcat offers different methods to crack the code. We use the common one, MD5, and in code you can see me refer to that mode by selecting 0 before typing the actual hashed value. 
+Next, the Hashcat offers different methods to crack the code. We use the common one, MD5, and in code you can see me refer to that mode by selecting 0 before typing the actual hashed value. 
 
 <img width="632" height="389" alt="image" src="https://github.com/user-attachments/assets/de9c3d45-5daa-4f14-8bf5-b2ff6c2203e2" />
 
-- So, let's put that hashed string back just after "-m 0", where 0 refers to MD5 mode. We put the hashed value inside single quoation in case of special characters. We also ask to look for the value from the rockyou.txt file. We save the solution in file named "solved" by using command -o solved
+So, let's put that hashed string back just after "-m 0", where 0 refers to MD5 mode. We put the hashed value inside single quoation in case of special characters. We also ask to look for the value from the rockyou.txt file. We save the solution in file named "solved" by using command -o solved
 
 
 <img width="816" height="76" alt="image" src="https://github.com/user-attachments/assets/5679ec11-1f03-4f92-b6b0-8ec81dfbb4ea" />
 
-- Hashing is ready when the next prompt is available
+Hashing is ready when the next prompt is available
 
   <img width="816" height="76" alt="image" src="https://github.com/user-attachments/assets/f814b5f5-b731-47ba-b067-03d369cb8536" />
 
 
   <img width="682" height="68" alt="image" src="https://github.com/user-attachments/assets/6d227378-d982-4a31-bbe1-70e2562ad41e" />
 
-- I encountered several times error messages, and the reason was in my settings. At this time I had to shut down the virtual machine and start over, increase RAM to 4gb and video memory to 128MB. After that I got this message:
+As a sidenote... I encountered several times error messages, and the reason was in my settings. At this time I had to shut down the virtual machine and start over, increase RAM to 4gb and video memory to 128MB. After that I got this message:
 
 <img width="763" height="511" alt="image" src="https://github.com/user-attachments/assets/4fe07f2f-7b3b-4911-b2fb-2bcd6be4f15f" />
 
-- I cracked the password! Let's see what it is by typing 'cat solved' in the terminal
+I cracked the password! Let's see what it is by typing 'cat solved' in the terminal
 
 And there you have it... 
 summer 
