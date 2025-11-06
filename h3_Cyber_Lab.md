@@ -14,7 +14,7 @@ Here is my summary for the "Cracking Passwords with Hashcat" by Tero: https://te
 - The hashed string is set as -m. The Hashcat then brings different options to choose what mode you want to use to crack the password. The MD5 is common one, and in the code, you refer to the mode with the referenced number after "Hashcat Mode", which is 0 in this case.
 
 
-# d) 
+# d) Cracking the password
 The goal is to crack the password "6b1628b016dff46e6fa35684be6acc96". For this, we need to install hashcat. Let's see how it goes.
 
 Ok, I've started by installing the hashcat directory. 
