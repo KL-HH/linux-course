@@ -18,9 +18,9 @@ Here is my summary for the "Cracking Passwords with Hashcat" by Tero: https://te
 The goal is to crack the password "6b1628b016dff46e6fa35684be6acc96". For this, we need to install hashcat. Let's see how it goes.
 
 - Ok, I've started by installing the hashcat directory. 
-$ sudo apt-get -y install hashid hashcat wget
-$ mkdir hashed
-$ cd hashed
+-- $ sudo apt-get -y install hashid hashcat wget
+-- $ mkdir hashed
+-- $ cd hashed
 <img width="811" height="144" alt="image" src="https://github.com/user-attachments/assets/de14dd66-e9fd-4389-b33b-ae1df60bc21c" />
 
 - Then we get the dictionary of most common passwords
