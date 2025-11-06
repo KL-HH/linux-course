@@ -31,6 +31,7 @@ Then we get the dictionary of most common passwords
 
 
 we can check the file content (top ones from the file)
+
 <img width="363" height="122" alt="image" src="https://github.com/user-attachments/assets/20dd1e92-0b76-4665-b40d-195ad2a1df61" />
 
 Next, the Hashcat offers different methods to crack the code. We use the common one, MD5, and in code you can see me refer to that mode by selecting 0 before typing the actual hashed value. 
