@@ -21,6 +21,15 @@ https://www.wired.com/story/best-rss-feed-readers/
 Source: https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2003/36#OT0_OT0
 
 # a) Install a feed reader
+Let's start installing a feed reader. As I'm not familiar with any feed readers, I chose "Thunderbird" as suggested. I downloaded it from https://www.thunderbird.net/en-US/ by clicking and installing the Thunderbird Setup 145.0.exe
+
+<img width="506" height="392" alt="image" src="https://github.com/user-attachments/assets/8be4ddc2-a5c8-4f30-85b5-537171120694" />
+
+Going forward with standard setup. I use the Thunderbird without an email setup. Then I press "Alt" to open the menu bar, and click New --> Feed Account. My feed account name is "Feeds (blogs, news, other)". Let's see is it a good name :-)
+
+<img width="565" height="433" alt="image" src="https://github.com/user-attachments/assets/819bd6e7-945c-4a67-9631-f0a587b9862d" />
+
+
 
 # b) Add the feed for Krebs
 
