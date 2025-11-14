@@ -110,10 +110,28 @@ By pressing the Subscribe button, I'm taken to another page, and scrolling that 
 By my surprise, the feed is behind the link https://podcast.darknetdiaries.com/. 
 <img width="421" height="119" alt="image" src="https://github.com/user-attachments/assets/8e01998b-c402-443b-818a-7f53ecd5c93f" />
 
-I wanted to show a third option by being clever and find the feed like a pro from here https://darknetdiaries.com/feed, but it ended into a typical error 404:
+I wanted to show a third option by being clever and find the feed like a pro from here https://darknetdiaries.com/feed, but it ended into a typical "Error 404":
+
 <img width="383" height="190" alt="image" src="https://github.com/user-attachments/assets/27a5fa38-3446-49c4-8ada-e380bdf01f40" />
 
 Maybe next time...
+
+So I added the RSS into my Feeds, as above I have made it.
+
+Ok, the second feed now.. I was thinking of adding a feed from Mikko Hyppönen, but that turned out to be hard. I didn't find anything "feed like" from his website, nor didn't I find the way to make his twitter posts as feeds either. But then I found this "Herrasmieshakkerit". Apparently Mikko is behind these posts, so that would suit me very well!. The website is: https://hakkerit.libsyn.com/.
+
+I can already see the RSS feed symbol in the front page:
+
+<img width="827" height="575" alt="image" src="https://github.com/user-attachments/assets/15d6072f-7e0d-467a-bd70-44f19eaba3ed" />
+
+Scrolling down is pointless.. It just loads me more news. I wanted to be a "pro" this time again, but had to dissapoint (there is no website as "https://hakkerit.libsyn.com/feed"...)
+
+But by pushing the RSS symbol I get in to a RSS feed like site: https://rss.libsyn.com/shows/210590/destinations/1518941.xml
+
+Let's add that the same way as above. After all the steps mentioned above I have added total five feeds to my birdie (Thunderbird)
+
+<img width="523" height="232" alt="image" src="https://github.com/user-attachments/assets/74720766-eb55-4990-b32d-d7fa75ceaab9" />
+
 
 
 
