@@ -144,5 +144,9 @@ Let's add that the same way as above. After all the steps mentioned above I have
 
 
 # e) Follow security feeds for a while.
+When I ended the previous d) assignment (on 14th of November) the last feeds were these ones:
+<img width="1134" height="151" alt="image" src="https://github.com/user-attachments/assets/ad88543d-a61c-4aa0-9b0f-ae013b6fcfe3" />
+
+
 
 # f) Port scan
