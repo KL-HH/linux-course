@@ -210,6 +210,6 @@ But then.. Accidentally...
 
 <img width="503" height="474" alt="image" src="https://github.com/user-attachments/assets/4aaaa7a1-aac8-40d9-bc9a-32d4407619fc" />
 
-I got something! But I don't really know how to interpret this otherwise than it can list me top 25 attackers (maybe based on IP number?), top 20 scanned ports (maybe to find a weak link, an open port?)... But other is harder to interpret. I guess it would just give me a report of the scan overall that how many sources and destinations it has scanned to get some kind of overview of the port scanning.
+I got something! But I don't really know how to interpret this otherwise than it can list me top 25 attackers (maybe based on IP number?), top 20 scanned ports (maybe to find a weak link, an open port?)... But other is harder to interpret. In the end of the list of total scans, I guess it would just give me a report of the scan overall that how many sources and destinations it has scanned to get some kind of overview of the port scanning.
 
 But I asked Gemini AI, and apparently top 50 signature matches would be a list of "50 most common types of suspicious network activity or known attack patterns that psad has detected" in my firewall logs. Signature would be a some sort of predefined pattern or a rule, that would match known malicious behavior.
