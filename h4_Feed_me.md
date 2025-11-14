@@ -29,7 +29,11 @@ Going forward with standard setup. I use the Thunderbird without an email setup.
 
 <img width="565" height="433" alt="image" src="https://github.com/user-attachments/assets/819bd6e7-945c-4a67-9631-f0a587b9862d" />
 
-I inserted my first feed by right clicking the "Feeds (blogs, news, other"), chose "Subscribe...". A menu popped out and in the URL link I pasted my ultimate favorite feed of all times "https://terokarvinen.com/index.xml". So by clicking "Add" I have actually inswerted it in my RSS feed. The "Add" button is now "Verify"... Missed the chance to take a screenshot :-)
+I inserted my first feed by right clicking the "Feeds (blogs, news, other)", chose "Subscribe...". 
+
+<img width="339" height="374" alt="image" src="https://github.com/user-attachments/assets/1bad3261-a27f-4b1d-be92-007873ad0acb" />
+
+A menu popped out and in the URL link I pasted my ultimate favorite feed of all times "https://terokarvinen.com/index.xml". So by clicking "Add" I have actually inswerted it in my RSS feed. The "Add" button is now "Verify"... Missed the chance to take a screenshot :-)
 
 <img width="731" height="523" alt="image" src="https://github.com/user-attachments/assets/2adc4353-e782-4168-8c82-950574d3b911" />
 
@@ -78,7 +82,7 @@ You can find RSS feed logo from the website:
 The picture takes me to a URL link: [sche](https://www.schneier.com/feed/atom/).
 
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/06987ba0-8b94-46fb-9cde-b452989cd909" />
-
+"
  Worth mentioning, that deleting atom takes you to another kind of feed page: https://www.schneier.com/feed/.
 
 By following the same steps as above (Right click on "Feeds (blogs, news, other) --> Subscribe. Enter the URL in "Feed URL", and press "Add". It's in the feed!
@@ -92,7 +96,27 @@ Well take a look at that... Bruce Schneider just published an article today!
 
 # d) Find and add two more security related feeds. Explain how you found them, and why you chose them.
 
-As I really liked those Darknet Diaries podcasts, I would like to add some RSS feed about those too. So the website is: https://darknetdiaries.com/. 
+I chose to add couple of other feeds. 
+
+First one is "Darknet Diaries" podcasts, which was introduced on our second assignment (h2_scene). The website is: https://darknetdiaries.com/. This site is publishing podcasts about different cyber security topic, such as hackers, breachers, cybercrime, and other. You can find at least two times the RSS feed subscription in this site. Once, when you just scroll a bit lower...
+<img width="1204" height="347" alt="image" src="https://github.com/user-attachments/assets/19673256-9596-4812-86ab-6ab86c20baf4" />
+
+... and second when you scroll completely down:
+<img width="1022" height="234" alt="image" src="https://github.com/user-attachments/assets/d674977f-288f-4469-83fb-b962c722f2d4" />
+
+By pressing the Subscribe button, I'm taken to another page, and scrolling that down I can find the "RSS Feed".
+<img width="763" height="684" alt="image" src="https://github.com/user-attachments/assets/52b3cae5-6957-4281-a6d5-c859718a2cbd" />
+
+By my surprise, the feed is behind the link https://podcast.darknetdiaries.com/. 
+<img width="421" height="119" alt="image" src="https://github.com/user-attachments/assets/8e01998b-c402-443b-818a-7f53ecd5c93f" />
+
+I wanted to show a third option by being clever and find the feed like a pro from here https://darknetdiaries.com/feed, but it ended into a typical error 404:
+<img width="383" height="190" alt="image" src="https://github.com/user-attachments/assets/27a5fa38-3446-49c4-8ada-e380bdf01f40" />
+
+Maybe next time...
+
+
+
 
 # e) Follow security feeds for a while.
 
