@@ -160,3 +160,30 @@ Good to go (I think):
 
 But before I go (to jail), I need to disconnect myself from the internet. Just in case, I will disconnect myself from WiFi, and I will put the flight mode on, just in case.
 
+<img width="331" height="261" alt="image" src="https://github.com/user-attachments/assets/d71f9d6b-eae4-4671-815b-959e62cd420e" />
+
+Let’s ping 8.8.8.8 by typing ‘ping 8.8.8.8’. I get this as an answer. I have to say, I don’t know is now showing that it’s not working, because I don’t know what would it do if it is..., but the internet is at least disconnected (plane icon on the right side)
+
+<img width="1095" height="124" alt="image" src="https://github.com/user-attachments/assets/dd17a823-31c3-4262-98f7-0475fa5c32cb" />
+
+
+Well... I pressed ctrl+C to quit the command, and got this
+
+<img width="1091" height="204" alt="image" src="https://github.com/user-attachments/assets/0a25dcec-5ba5-4055-9262-975dc9a3d419" />
+
+Still no idea what to expect, but at least I didn’t receive anything. That’s a good sign, I think :-)
+
+Now let’s ping myself
+
+<img width="1092" height="136" alt="image" src="https://github.com/user-attachments/assets/e66d01cb-cfcb-40fe-bdcb-994f3e1ec2a7" />
+
+And press ‘Enter’
+
+<img width="1086" height="345" alt="image" src="https://github.com/user-attachments/assets/39e22c0b-d385-4c68-80bb-58ab4da94556" />
+
+And then I realized I used the wrong command, so... Let's try again by typing 'sudo nmap -A -v localhost'. Too technical to explain what are these commands, but this is how it goes..
+
+After ending the command, I put the internet back on to install the Daemon.
+
+
+
