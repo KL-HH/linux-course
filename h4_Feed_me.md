@@ -29,6 +29,11 @@ Going forward with standard setup. I use the Thunderbird without an email setup.
 
 <img width="565" height="433" alt="image" src="https://github.com/user-attachments/assets/819bd6e7-945c-4a67-9631-f0a587b9862d" />
 
+I inserted my first feed by right clicking the "Feeds (blogs, news, other"), chose "Subscribe...". A menu popped out and in the URL link I pasted my ultimate favorite feed of all times "https://terokarvinen.com/index.xml". So by clicking "Add" I have actually inswerted it in my RSS feed. The "Add" button is now "Verify"... Missed the chance to take a screenshot :-)
+
+<img width="731" height="523" alt="image" src="https://github.com/user-attachments/assets/2adc4353-e782-4168-8c82-950574d3b911" />
+
+
 
 
 # b) Add the feed for Krebs
