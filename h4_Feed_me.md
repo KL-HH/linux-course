@@ -193,8 +193,6 @@ After ending the command, I put the internet back on to install the Daemon. I th
 
 This is now installed... But I don't know how to use it...
 
-<img width="1214" height="269" alt="Sieppaa1" src="https://github.com/user-attachments/assets/5e7e8bd0-12b1-4cb3-8dd9-48c5f07f64ba" />
-
 
 I tried the same 'sudo nmap -A -v localhost'
 <img width="1335" height="731" alt="image" src="https://github.com/user-attachments/assets/616c6356-24ae-4c3b-9368-aef779774c71" />
