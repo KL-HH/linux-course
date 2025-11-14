@@ -150,3 +150,13 @@ When I ended the previous d) assignment (on 14th of November) the last feeds wer
 
 
 # f) Port scan
+Let's install the port scan for our cyber security course. I use Linux (in virtual system). This command should let us install the port scan:
+
+<img width="666" height="82" alt="image" src="https://github.com/user-attachments/assets/2215d1f7-5040-48ef-b776-3769ba10afc1" />
+
+Good to go (I think):
+
+<img width="547" height="182" alt="image" src="https://github.com/user-attachments/assets/4a622238-dd30-4cc2-b65d-208b5c1fcd6f" />
+
+But before I go (to jail), I need to disconnect myself from the internet. Just in case, I will disconnect myself from WiFi, and I will put the flight mode on, just in case.
+
