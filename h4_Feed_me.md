@@ -20,7 +20,7 @@ https://www.wired.com/story/best-rss-feed-readers/
 
 Source: https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2003/36#OT0_OT0
 
-# a) Install a feed reader
+# a) Install a feed reader and my first feed
 Let's start installing a feed reader. As I'm not familiar with any feed readers, I chose "Thunderbird" as suggested. I downloaded it from https://www.thunderbird.net/en-US/ by clicking and installing the Thunderbird Setup 145.0.exe
 
 <img width="506" height="392" alt="image" src="https://github.com/user-attachments/assets/8be4ddc2-a5c8-4f30-85b5-537171120694" />
@@ -36,20 +36,63 @@ I inserted my first feed by right clicking the "Feeds (blogs, news, other"), cho
 The latest feed is about "Salt Master-Slave" published on 4th of November.
 <img width="1451" height="569" alt="image" src="https://github.com/user-attachments/assets/7bae8386-9dfe-4455-933b-65883b55f995" />
 
-I would like to see only relatively recent blogs, so I will change the view to show me only feeds that are less than 30 days. Let's right click the "Feeds (blogs, news, other)" and select "Search Messages...", set the 30 days, and "Save as Search Folder"
+I would like to see only relatively recent blogs, so I will change the view to show me only feeds that are less than 30 days. Let's right click the "Feeds (blogs, news, other)" and select "Search Messages...", set the 30 days, and "Save as Search Folder". Then I justnamed it as "Month" and saved.
+
 <img width="341" height="397" alt="image" src="https://github.com/user-attachments/assets/8e1cbb96-dae6-4d7d-bd8c-1c9c08954509" />
 
 <img width="643" height="450" alt="image" src="https://github.com/user-attachments/assets/7dc877eb-c79a-4b0f-8619-945c8bda157a" />
 
+And there it is! Our filtered folder.
+
+<img width="513" height="180" alt="image" src="https://github.com/user-attachments/assets/806dbc4d-8be3-4975-9734-0fd89e872c84" />
 
 
 
+# b) Add a feed for Krebs
 
-# b) Add the feed for Krebs
+Let's add another feed. I'm goin to add "Krebs on Security" news in my feed: https://krebsonsecurity.com/. Luckily I have the link for feed: https://krebsonsecurity.com/feed/
+
+Let's go to "Subscribe..." again
+
+<img width="260" height="391" alt="image" src="https://github.com/user-attachments/assets/5b66da0c-3cac-4bd2-b40b-ebb9be16c2c3" />
+
+
+A new windows pop up. Then let's add a feed by pasting the "https://krebsonsecurity.com/feed/" URL to the "Feed URL". Press "Add".
+
+<img width="741" height="530" alt="image" src="https://github.com/user-attachments/assets/2f49818f-2beb-40ad-a791-8231bf8c91ba" />
+
+And there it is:
+<img width="374" height="165" alt="image" src="https://github.com/user-attachments/assets/ec340237-c0e0-4515-a429-42a8002ee9ab" />
+
+Now my Month folder is flooded with news from Krebs:
+<img width="1035" height="205" alt="image" src="https://github.com/user-attachments/assets/b661826a-a28e-4311-8ca1-500c9c033611" />
+
+
 
 # c) Add a feed for Schneier on Security. Find the blog, and locate the feed.
+It's always good to have some other opinions or viewpoints on security, so I'll add Schneier too. You can get those news from Schneier on Security: https://www.schneier.com/
+
+You can find RSS feed logo from the website:
+<img width="431" height="482" alt="image" src="https://github.com/user-attachments/assets/626ff221-a004-4c68-b689-c4903c4b97ed" />
+
+The picture takes me to a URL link: [sche](https://www.schneier.com/feed/atom/).
+
+<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/06987ba0-8b94-46fb-9cde-b452989cd909" />
+
+ Worth mentioning, that deleting atom takes you to another kind of feed page: https://www.schneier.com/feed/.
+
+By following the same steps as above (Right click on "Feeds (blogs, news, other) --> Subscribe. Enter the URL in "Feed URL", and press "Add". It's in the feed!
+
+<img width="967" height="559" alt="image" src="https://github.com/user-attachments/assets/a96d017d-2399-4371-8e96-298462cf0d5a" />
+
+Well take a look at that... Bruce Schneider just published an article today!
+<img width="1332" height="191" alt="image" src="https://github.com/user-attachments/assets/bf32ac15-3fa8-44c4-9c30-e1306b93b826" />
+
+
 
 # d) Find and add two more security related feeds. Explain how you found them, and why you chose them.
+
+As I really liked those Darknet Diaries podcasts, I would like to add some RSS feed about those too. So the website is: https://darknetdiaries.com/. 
 
 # e) Follow security feeds for a while.
 
