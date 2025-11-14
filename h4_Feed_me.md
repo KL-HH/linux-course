@@ -33,6 +33,15 @@ I inserted my first feed by right clicking the "Feeds (blogs, news, other"), cho
 
 <img width="731" height="523" alt="image" src="https://github.com/user-attachments/assets/2adc4353-e782-4168-8c82-950574d3b911" />
 
+The latest feed is about "Salt Master-Slave" published on 4th of November.
+<img width="1451" height="569" alt="image" src="https://github.com/user-attachments/assets/7bae8386-9dfe-4455-933b-65883b55f995" />
+
+I would like to see only relatively recent blogs, so I will change the view to show me only feeds that are less than 30 days. Let's right click the "Feeds (blogs, news, other)" and select "Search Messages...", set the 30 days, and "Save as Search Folder"
+<img width="341" height="397" alt="image" src="https://github.com/user-attachments/assets/8e1cbb96-dae6-4d7d-bd8c-1c9c08954509" />
+
+<img width="643" height="450" alt="image" src="https://github.com/user-attachments/assets/7dc877eb-c79a-4b0f-8619-945c8bda157a" />
+
+
 
 
 
