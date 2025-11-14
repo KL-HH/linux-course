@@ -38,6 +38,7 @@ A menu popped out and in the URL link I pasted my ultimate favorite feed of all 
 <img width="731" height="523" alt="image" src="https://github.com/user-attachments/assets/2adc4353-e782-4168-8c82-950574d3b911" />
 
 The latest feed is about "Salt Master-Slave" published on 4th of November.
+
 <img width="1451" height="569" alt="image" src="https://github.com/user-attachments/assets/7bae8386-9dfe-4455-933b-65883b55f995" />
 
 I would like to see only relatively recent blogs, so I will change the view to show me only feeds that are less than 30 days. Let's right click the "Feeds (blogs, news, other)" and select "Search Messages...", set the 30 days, and "Save as Search Folder". Then I justnamed it as "Month" and saved.
@@ -77,19 +78,21 @@ Now my Month folder is flooded with news from Krebs:
 It's always good to have some other opinions or viewpoints on security, so I'll add Schneier too. You can get those news from Schneier on Security: https://www.schneier.com/
 
 You can find RSS feed logo from the website:
+
 <img width="431" height="482" alt="image" src="https://github.com/user-attachments/assets/626ff221-a004-4c68-b689-c4903c4b97ed" />
 
-The picture takes me to a URL link: [sche](https://www.schneier.com/feed/atom/).
+The picture takes me to a URL link: https://www.schneier.com/feed/atom/
 
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/06987ba0-8b94-46fb-9cde-b452989cd909" />
-"
- Worth mentioning, that deleting atom takes you to another kind of feed page: https://www.schneier.com/feed/.
+
+Worth mentioning, that deleting atom takes you to another kind of feed page: https://www.schneier.com/feed/.
 
 By following the same steps as above (Right click on "Feeds (blogs, news, other) --> Subscribe. Enter the URL in "Feed URL", and press "Add". It's in the feed!
 
 <img width="967" height="559" alt="image" src="https://github.com/user-attachments/assets/a96d017d-2399-4371-8e96-298462cf0d5a" />
 
 Well take a look at that... Bruce Schneider just published an article today!
+
 <img width="1332" height="191" alt="image" src="https://github.com/user-attachments/assets/bf32ac15-3fa8-44c4-9c30-e1306b93b826" />
 
 
@@ -99,15 +102,19 @@ Well take a look at that... Bruce Schneider just published an article today!
 I chose to add couple of other feeds. 
 
 First one is "Darknet Diaries" podcasts, which was introduced on our second assignment (h2_scene). The website is: https://darknetdiaries.com/. This site is publishing podcasts about different cyber security topic, such as hackers, breachers, cybercrime, and other. You can find at least two times the RSS feed subscription in this site. Once, when you just scroll a bit lower...
+
 <img width="1204" height="347" alt="image" src="https://github.com/user-attachments/assets/19673256-9596-4812-86ab-6ab86c20baf4" />
 
 ... and second when you scroll completely down:
+
 <img width="1022" height="234" alt="image" src="https://github.com/user-attachments/assets/d674977f-288f-4469-83fb-b962c722f2d4" />
 
 By pressing the Subscribe button, I'm taken to another page, and scrolling that down I can find the "RSS Feed".
+
 <img width="763" height="684" alt="image" src="https://github.com/user-attachments/assets/52b3cae5-6957-4281-a6d5-c859718a2cbd" />
 
 By my surprise, the feed is behind the link https://podcast.darknetdiaries.com/. 
+
 <img width="421" height="119" alt="image" src="https://github.com/user-attachments/assets/8e01998b-c402-443b-818a-7f53ecd5c93f" />
 
 I wanted to show a third option by being clever and find the feed like a pro from here https://darknetdiaries.com/feed, but it ended into a typical "Error 404":
