@@ -187,7 +187,16 @@ And then I realized I used the wrong command, so... Let's try again by typing 's
 <img width="1332" height="683" alt="image" src="https://github.com/user-attachments/assets/d9bd6287-39c8-4495-b2d1-ef6c5871abc0" />
 
 
-After ending the command, I put the internet back on to install the Daemon.
+After ending the command, I put the internet back on to install the Daemon. I think the command would be 'sudo apt update' and 'sudo apt install psad'. I looked this by googling (AI answer).
 
+<img width="1214" height="269" alt="image" src="https://github.com/user-attachments/assets/aceb34f6-61e6-4191-8b8d-c7f79386b4bb" />
+
+This is now installed... But I don't know how to use it...
+
+<img width="1214" height="269" alt="Sieppaa1" src="https://github.com/user-attachments/assets/5e7e8bd0-12b1-4cb3-8dd9-48c5f07f64ba" />
+
+
+I tried the same 'sudo nmap -A -v localhost'
+<img width="1335" height="731" alt="image" src="https://github.com/user-attachments/assets/616c6356-24ae-4c3b-9368-aef779774c71" />
 
 
