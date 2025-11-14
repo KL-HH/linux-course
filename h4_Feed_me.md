@@ -183,6 +183,10 @@ And press ‘Enter’
 
 And then I realized I used the wrong command, so... Let's try again by typing 'sudo nmap -A -v localhost'. Too technical to explain what are these commands, but this is how it goes..
 
+<img width="1330" height="709" alt="image" src="https://github.com/user-attachments/assets/a8bb9ba9-139b-4d1a-bf70-44273d90304e" />
+<img width="1332" height="683" alt="image" src="https://github.com/user-attachments/assets/d9bd6287-39c8-4495-b2d1-ef6c5871abc0" />
+
+
 After ending the command, I put the internet back on to install the Daemon.
 
 
