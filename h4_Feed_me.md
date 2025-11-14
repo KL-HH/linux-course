@@ -194,7 +194,14 @@ After ending the command, I put the internet back on to install the Daemon. I th
 This is now installed... But I don't know how to use it...
 
 
-I tried the same 'sudo nmap -A -v localhost'
+I disconnected the internet, and I tried the same 'sudo nmap -A -v localhost'
 <img width="1335" height="731" alt="image" src="https://github.com/user-attachments/assets/616c6356-24ae-4c3b-9368-aef779774c71" />
+
+I think the result is the same as before... So I try 'sudo psad -A -v localhost'. But first I'll disconnect the internet...
+
+<img width="1268" height="647" alt="image" src="https://github.com/user-attachments/assets/03d2e22f-e346-4139-85b2-144c171f05ca" />
+<img width="1271" height="684" alt="image" src="https://github.com/user-attachments/assets/77ac8fdb-240f-4c5a-a90b-9f1635acfe59" />
+
+So a lot of stuff happened there... 
 
 
