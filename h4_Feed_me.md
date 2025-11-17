@@ -147,6 +147,8 @@ Let's add that the same way as above. After all the steps mentioned above I have
 When I ended the previous d) assignment (on 14th of November) the last feeds were these ones:
 <img width="1134" height="151" alt="image" src="https://github.com/user-attachments/assets/ad88543d-a61c-4aa0-9b0f-ae013b6fcfe3" />
 
+Happy to find that few new feeds were received on 16th of November:
+<img width="1168" height="168" alt="image" src="https://github.com/user-attachments/assets/6f467614-426c-4271-9301-587a7a3785a4" />
 
 
 # f) Port scan
