@@ -91,4 +91,12 @@ Good that Tero has some troubleshooting instructions, because I'm already gettin
 Source: Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg
 
 
+x) Pubkey today
 
+Instantly when I started to read about the encryption, decryption, abd keys, it reminded me of Signal messaging app, which uses end-to-end encryption (E2EE) protocol. It has sometimes a message im the chat saying "Your safety number with XXX changed, likely because they reinstalled Signal or changed devices. Tap Verify to confirm the new safety number. This is optional.", and by pressing "Verify" it shows me random numbers infront of my screen (and a QR code). 
+
+This is how Signal sees it: "Your messages with Signal are end-to-end encrypted which is like having locks and keys for each message. When the safety number changes it's as if you have changed the locks and keys for your messages." What I think about this is that this is the public key
+
+Sources: 
+https://signal.org/
+https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed#:~:text=Each%20Signal%20one%2Dto%2Done%20chat%20has%20a%20unique,manually%20approved%20before%20sending%20a%20new%20message.
