@@ -162,7 +162,16 @@ So... While I try to export alice.pub again and again, it asks me to overwrite i
 
 <img width="635" height="140" alt="image" src="https://github.com/user-attachments/assets/f241518f-43ef-44a3-b493-be1fb5c36606" />
 
+I don't know... I'll just try and hope it works, if I just continue with the instructions...
+<img width="649" height="194" alt="image" src="https://github.com/user-attachments/assets/c2a71330-3ad9-48dd-98d4-d3b937ad0b7a" />
 
+I think I already lost what I was doing after hour of solving this... But I think now I imported Alice's key.
+<img width="653" height="285" alt="image" src="https://github.com/user-attachments/assets/baa081bc-367b-428b-8858-06587bf4e812" />
+
+
+
+All right... Alice is writing me a message
+<img width="634" height="625" alt="image" src="https://github.com/user-attachments/assets/33704f17-3b91-48d3-b0d2-5dce84be7845" />
 
 
 
