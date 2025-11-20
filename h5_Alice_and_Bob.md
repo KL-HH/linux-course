@@ -125,7 +125,7 @@ Adding password (don't know should I...). Won't share my screenshot of this... Y
 
 So... Now I got a key. There is now my public key to encrypt my messages later on (in the file, I think).
 
-Then let's exort the key
+Then let's exort the key to a file named karifoo.pub
 <img width="650" height="57" alt="image" src="https://github.com/user-attachments/assets/4a820482-906a-45d9-97a0-c9ec30d24920" />
 
 There is the public key
@@ -140,12 +140,25 @@ Alice doesn't need any passwords...
 But Alice needs own key, so let's genereate one.
 <img width="632" height="281" alt="image" src="https://github.com/user-attachments/assets/322cbcd1-87cb-4ba0-b48d-44e2649680a7" />
 
+Let's share the public key with Alice
+<img width="631" height="245" alt="image" src="https://github.com/user-attachments/assets/9cd4223d-2d05-4de2-b604-2a0379062dab" />
 
+We can compare the public keys now with Alice
+<img width="630" height="235" alt="image" src="https://github.com/user-attachments/assets/b3a9cdb9-6d5a-4a0f-80b4-2499cfe115a8" />
 
+Now Alice will sign the code sent from my ("4390 AAF8 1537...") to basically establish a secure messaging between us. That is because I have createad a key for Alice. Alice has a key for me. Alice now signs the key from me and makes it trusted. 
 
+And that's a yes!
 
+<img width="637" height="468" alt="image" src="https://github.com/user-attachments/assets/2814bb9f-c8de-41be-b6c2-ce46c7beee21" />
 
+Now we need to make Alice's key trustworthy also for me. So let's do it with similar steps.
 
+Ok... I rant into some technical problem and I can't get out of this one... The problem is just looping...
+
+<img width="632" height="501" alt="image" src="https://github.com/user-attachments/assets/8c08a1fe-b829-477e-a26d-4c31bd3dc7fa" />
+
+So... While I try to export alice.pub again and again, it asks me to overwrite it again and again, and I say everytime yes.. So, from my view it's an indication that there is a file there... But the 'cp -v alice/alice.pub' doesn't work...
 
 
 
