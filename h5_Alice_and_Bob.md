@@ -119,10 +119,32 @@ Going with these settings.. Name, KARI FOO, with an example email
 
 <img width="484" height="143" alt="image" src="https://github.com/user-attachments/assets/50184083-2f29-4761-8efc-259c69e33ba4" />
 
-Adding password (don't know should I...)
-<img width="322" height="246" alt="image" src="https://github.com/user-attachments/assets/06b3ab92-9c56-4ca7-80a1-9f3dfdda8346" />
+Adding password (don't know should I...). Won't share my screenshot of this... You hackers ;)
 
 <img width="652" height="201" alt="image" src="https://github.com/user-attachments/assets/70a91842-d3fc-490b-9db4-7cc1af824425" />
+
+So... Now I got a key. There is now my public key to encrypt my messages later on (in the file, I think).
+
+Then let's exort the key
+<img width="650" height="57" alt="image" src="https://github.com/user-attachments/assets/4a820482-906a-45d9-97a0-c9ec30d24920" />
+
+There is the public key
+<img width="632" height="288" alt="image" src="https://github.com/user-attachments/assets/cf4be170-ef85-44bb-8b59-6fba2e81ebe7" />
+
+Let's create a receiving folder for Alice so we can send a message and test our encrypted messaging
+<img width="647" height="408" alt="image" src="https://github.com/user-attachments/assets/26f7a813-4486-42f2-8ed2-459de42c6203" />
+
+Alice doesn't need any passwords...
+<img width="567" height="195" alt="image" src="https://github.com/user-attachments/assets/54d9827d-9d19-4c3c-97b4-51a25a0470b4" />
+
+But Alice needs own key, so let's genereate one.
+<img width="632" height="281" alt="image" src="https://github.com/user-attachments/assets/322cbcd1-87cb-4ba0-b48d-44e2649680a7" />
+
+
+
+
+
+
 
 
 
