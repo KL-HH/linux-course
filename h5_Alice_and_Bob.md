@@ -20,6 +20,74 @@ Chapter 1.1 Terminology & Chapter 2.5 Communication using public-key cryptograph
 
 
 
+## PGP - Send Encrypted and Signed Message
+
+- Article is about how to use PGP encryption with a 'gpg' tool, which is a popular way to encrypt as well as to decipher.
+- We install with following command
+$ sudo apt-get update
+$ sudo apt-get install gpg micro psmisc
+
+Sudo is the super user (admin) rights. Then we get the updates and install gpg.
+
+$ gpg --gen-key
+This creates a keypair. I guess this is related to the example "Person A send a key to Person B" I described above, but in order to send the key, we need to create it first.
+
+$ gpg --fingerprint
+Tero get the keypair from the command prompt, but to be honest, I got lost what is he doing in practice. Apparently you give a name and the email address, but I don't know why... Or maybe the system offers it?
+
+Exporting your public key, which you can share with another one, is done with the following commands:
+$ cd
+$ gpg --export --armor --output publickey.pub
+cd is for home directory
+'gpg' is the program.  ----export' is I would assume self-explanatory, '--armor' uses only ASCII characters so that the out can be viewed and copied. I wonder why this is not always used (what's the difference to use it this time... I don't remember using it before). '--output publickey.pub' saves the output in to a file called "publickey"
+
+$ ls
+publickey.pub
+
+$ head -4 publickey.pub
+
+This should provide the public key, which is just a hash of letters and numbers.
+
+$ cd
+$ mkdir alice/
+$ chmod og-rwx alice/
+Then we should create a folder a folder. Let's call the folder Alice. We can of course create another user... but this will do.
+
+Then we should save some gpg files in the folder.
+
+$ gpg --homedir . --gen-key
+Then we create Alice own keypair.
+
+We also create some name and email address for "Alice" who can also send a message to me with some lines of codes. The lines of codes are a bit long and technical...
+
+But basically the enryption is set between to points by sharing the public key with eache other. Alice in this case would verify and sign the key sent, and can proceed encrypting messages back. But for that, Alice needs to sends the key to me.
+
+$ gpg --homedir . --export --armor --output alice.pub
+$ cp -v alice/alice.pub .
+'alice/alice.pub' -> './alice.pub'
+So in this we use gpg again, we go to our home folder and export alice.pub file. 
+
+$ cd 
+$ cp -v alice/alice.pub .
+I think then we need to send the key in alice.pub file.
+
+$ gpg --import alice.pub
+And then import that key
+
+$ gpg --sign-key "B20F D80B 705C 791D C878  0030 7BAA 4F13 2645 134F"
+$ gpg --fingerprint
+uid           [  full  ] Alice <alice@example.com.invalid>
+Then I uess we would have the established the secure connection!
+
+Following codes in the article shows how to formulate a message, write it, and...
+$ gpg --homedir . --encrypt --recipient tero@example.com.invalid --sign --output encrypted.pgp --armor message.txt
+Enrypt it! So again using the 'gpg', navigating to working directory, naming the recipient, signing (with the Alice's secret message), and then encrypt it with printable ASCII characters.
+- 
+
+
+
+
+Source: Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg
 
 
 
