@@ -93,10 +93,17 @@ Source: Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg
 
 x) Pubkey today
 
-Instantly when I started to read about the encryption, decryption, abd keys, it reminded me of Signal messaging app, which uses end-to-end encryption (E2EE) protocol. It has sometimes a message im the chat saying "Your safety number with XXX changed, likely because they reinstalled Signal or changed devices. Tap Verify to confirm the new safety number. This is optional.", and by pressing "Verify" it shows me random numbers infront of my screen (and a QR code). 
+Instantly when I started to read about the encryption, decryption, abd keys, it reminded me of Signal messaging app, which uses end-to-end encryption (E2EE) protocol. I use Signal on my phone. It has sometimes a message im the chat saying "Your safety number with XXX changed, likely because they reinstalled Signal or changed devices. Tap Verify to confirm the new safety number. This is optional.", and by pressing "Verify" it shows me random numbers infront of my screen (and a QR code). 
 
-This is how Signal sees it: "Your messages with Signal are end-to-end encrypted which is like having locks and keys for each message. When the safety number changes it's as if you have changed the locks and keys for your messages." What I think about this is that this is the public key
+This is how Signal sees it: "Your messages with Signal are end-to-end encrypted which is like having locks and keys for each message. When the safety number changes it's as if you have changed the locks and keys for your messages." I assume this is the public key (as its publicly visible).
+
+According to Truong Luu (Medium 2025), this E2EE combines symmetric and asymmetric encrytion. So first Person A generates symmetric key to encrypt the message. The Person A then encrypts the key using the Person B's public key. This way only the Person B's private key can decrypt it. So what happens is, that symmetric key is sent with the encrypted message from Person A to Person B. Only Person B can open it. Sounds familiar? It's because I was writing about this earlier :-)
+
 
 Sources: 
-https://signal.org/
-https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed#:~:text=Each%20Signal%20one%2Dto%2Done%20chat%20has%20a%20unique,manually%20approved%20before%20sending%20a%20new%20message.
+
+Signal. https://signal.org/
+
+Signal. https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed#:~:text=Each%20Signal%20one%2Dto%2Done%20chat%20has%20a%20unique,manually%20approved%20before%20sending%20a%20new%20message.
+
+Medium. 2025. End-to-end encryption explained: how the Signal app secured your messages. https://medium.com/@jackluucoding/end-to-end-encryption-explained-how-the-signal-app-secured-your-messages-d57e2ecd5d6d
