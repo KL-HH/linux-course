@@ -107,3 +107,10 @@ Signal. https://signal.org/
 Signal. https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed#:~:text=Each%20Signal%20one%2Dto%2Done%20chat%20has%20a%20unique,manually%20approved%20before%20sending%20a%20new%20message.
 
 Medium. 2025. End-to-end encryption explained: how the Signal app secured your messages. https://medium.com/@jackluucoding/end-to-end-encryption-explained-how-the-signal-app-secured-your-messages-d57e2ecd5d6d
+
+
+# c) Encrypt a message
+
+First, update. Then, installing the 'gpg'
+sudo apt-get install gpg micro psmisc
+
