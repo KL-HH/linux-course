@@ -112,5 +112,32 @@ Medium. 2025. End-to-end encryption explained: how the Signal app secured your m
 # c) Encrypt a message
 
 First, update. Then, installing the 'gpg'
-sudo apt-get install gpg micro psmisc
+
+<img width="624" height="89" alt="image" src="https://github.com/user-attachments/assets/75c4fab1-5f41-4e90-9eb1-d6acb8e14187" />
+
+Going with these settings.. Name, KARI FOO, with an example email
+
+<img width="484" height="143" alt="image" src="https://github.com/user-attachments/assets/50184083-2f29-4761-8efc-259c69e33ba4" />
+
+Adding password (don't know should I...)
+<img width="322" height="246" alt="image" src="https://github.com/user-attachments/assets/06b3ab92-9c56-4ca7-80a1-9f3dfdda8346" />
+
+<img width="652" height="201" alt="image" src="https://github.com/user-attachments/assets/70a91842-d3fc-490b-9db4-7cc1af824425" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
