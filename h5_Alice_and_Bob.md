@@ -213,5 +213,9 @@ So let's say an eavesdropper would try to interfere the messages... Well that pe
 
 
 # d) 
+Password managers can create passwords for you, but also store them in a safe place digitally. It is protected by a one password. There can be password manager applications or one can be in the browser. 
 
+The problem is that you might need to use various web services and resources daily and remember many passwords. It is only human trying to simplify them because of the ability to remember limited amount of such passwords. So what typically happens is that we might use the same password or connected passwords in multiple services. And if one password gets compromised, well, then it puts all servicdes using the same password at risk. 
 
+Jyoti & Jeyanthi, 2023. Jyoti, M. & Jeyanthi, N. 2023. A Review of Modern Authentication Methods in Digital Systems. IEEE.
+Sources: Kaspersky. [How to protect your data online by using a password manager]([url](https://www.kaspersky.com/resource-center/preemptive-safety/protecting-your-data-online-password-manager)).
