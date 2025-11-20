@@ -158,8 +158,9 @@ Ok... I rant into some technical problem and I can't get out of this one... The 
 
 <img width="632" height="501" alt="image" src="https://github.com/user-attachments/assets/8c08a1fe-b829-477e-a26d-4c31bd3dc7fa" />
 
-So... While I try to export alice.pub again and again, it asks me to overwrite it again and again, and I say everytime yes.. So, from my view it's an indication that there is a file there... But the 'cp -v alice/alice.pub' doesn't work...
+So... While I try to export alice.pub again and again, it asks me to overwrite it again and again, and I say everytime yes.. So, from my view it's an indication that there is a file there... But the 'cp -v alice/alice.pub' doesn't work... If I check the files in the directory, it seems 'alice.pub' is there...
 
+<img width="635" height="140" alt="image" src="https://github.com/user-attachments/assets/f241518f-43ef-44a3-b493-be1fb5c36606" />
 
 
 
