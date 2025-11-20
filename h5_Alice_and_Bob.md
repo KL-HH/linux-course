@@ -109,7 +109,7 @@ Signal. https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safe
 Medium. 2025. End-to-end encryption explained: how the Signal app secured your messages. https://medium.com/@jackluucoding/end-to-end-encryption-explained-how-the-signal-app-secured-your-messages-d57e2ecd5d6d
 
 
-# c) Encrypt a message
+# b-c) Encrypt a message
 
 First, update. Then, installing the 'gpg'
 
@@ -190,15 +190,28 @@ Let's try a bit more...
 Again this error... I already forgot how I solved it... :-)
 <img width="639" height="167" alt="image" src="https://github.com/user-attachments/assets/081e9cea-b68b-4f86-8d11-83e76d3e7c32" />
 
+So I had to exit Alice directory..?
+<img width="626" height="160" alt="image" src="https://github.com/user-attachments/assets/0ab9d0d7-dc9d-4223-9fe5-fdbf7fb65079" />
+
+Yup... It worked.. Maybe? (Linkin Park playing in the head even harder now...)
+
+I almost forgot the password... Jeez...
+<img width="882" height="318" alt="image" src="https://github.com/user-attachments/assets/ca7a8925-f0a1-474f-b9e1-31ff78a6759d" />
+
+Holy moly... I opened it... And the message!
+<img width="647" height="575" alt="image" src="https://github.com/user-attachments/assets/3e0b8c38-c320-4b06-958e-ce9dd773dafb" />
+
+So in the end, what I did in simple words...
+1. I createad a key
+2. Alice created a key.
+3. We exhcanged the public key info. Alice saved my key as trustworthy. She wrote me a message and sent it to me.
+4. I managed to open the message with my key (after Alice encrypted it, only I can open it).
+
+Very hard assignment for my technical skills... 
+
+So let's say an eavesdropper would try to interfere the messages... Well that person wouldn't be able to decypher the message that Alice wrote to me. That is because Alice used the key to encrypt the message. After encrypting the message, you need a key to decrypt it. If you don't have the key, the message is just random looking letters. It is the private key as I've understood that allows to decrypt the message.
 
 
-
-
-
-
-
-
-
-
+# d) 
 
 
