@@ -169,10 +169,26 @@ I think I already lost what I was doing after hour of solving this... But I thin
 <img width="653" height="285" alt="image" src="https://github.com/user-attachments/assets/baa081bc-367b-428b-8858-06587bf4e812" />
 
 
-
 All right... Alice is writing me a message
 <img width="634" height="625" alt="image" src="https://github.com/user-attachments/assets/33704f17-3b91-48d3-b0d2-5dce84be7845" />
 
+Had a bit of a problem, but managed to restore my message...
+<img width="657" height="455" alt="image" src="https://github.com/user-attachments/assets/519a7b0f-ae2d-4e40-a972-1f61784f4d87" />
+
+So, let's send it then.. The encryption better work... For some reason Linkin Park - 'In the End' song started to play in my head... I've tried so hard, and got so far...
+<img width="635" height="98" alt="image" src="https://github.com/user-attachments/assets/4eef48b3-73e6-4493-bb33-7ce7d665ec1a" />
+
+Nothing happened?
+<img width="630" height="101" alt="image" src="https://github.com/user-attachments/assets/15e2107b-cda1-4a5a-9ffd-52d3cbc30680" />
+
+It's there... Should it open?
+<img width="624" height="236" alt="image" src="https://github.com/user-attachments/assets/ca1834bc-10a6-42ed-afbc-2744a50ef912" />
+
+Let's try a bit more...
+<img width="626" height="311" alt="image" src="https://github.com/user-attachments/assets/129edf18-85b3-4d07-9f6b-a69b18f48c81" />
+
+Again this error... I already forgot how I solved it... :-)
+<img width="639" height="167" alt="image" src="https://github.com/user-attachments/assets/081e9cea-b68b-4f86-8d11-83e76d3e7c32" />
 
 
 
