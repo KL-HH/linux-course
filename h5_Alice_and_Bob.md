@@ -204,8 +204,8 @@ Holy moly... I opened it... And the message!
 So in the end, what I did in simple words...
 1. I createad a key
 2. Alice created a key.
-3. We exhcanged the public key info. Alice saved my key as trustworthy. She wrote me a message and sent it to me.
-4. I managed to open the message with my key (after Alice encrypted it, only I can open it).
+3. We exhcanged the public key info. Alice saved my key as trustworthy. She writes me a message and encrypts it before sending it to me.
+4. I managed to open the message and encrypt the message with my key (after Alice encrypted it, only I can open it).
 
 Very hard assignment for my technical skills... 
 
