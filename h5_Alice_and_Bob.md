@@ -82,9 +82,10 @@ Then I uess we would have the established the secure connection!
 Following codes in the article shows how to formulate a message, write it, and...
 $ gpg --homedir . --encrypt --recipient tero@example.com.invalid --sign --output encrypted.pgp --armor message.txt
 Enrypt it! So again using the 'gpg', navigating to working directory, naming the recipient, signing (with the Alice's secret message), and then encrypt it with printable ASCII characters.
-- 
 
+The article continues with instructions how to formulate encrypted messages. Overall the article is an interesting example how the public and secret key works in practice, from techical perspective. It demonstrates how it is actually possible to create your own key and share it with the receiver to start encrypted messaging. The concept looks actually quite "simple" in the end. Just as above described how Person A and Person B would share the keys, we do this now in practice to establish a secure connection between two.
 
+Good that Tero has some troubleshooting instructions, because I'm already getting panicked infront of this assignment. Getting quite technical... Phew...
 
 
 Source: Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg
