@@ -212,10 +212,31 @@ Very hard assignment for my technical skills...
 So let's say an eavesdropper would try to interfere the messages... Well that person wouldn't be able to decypher the message that Alice wrote to me. That is because Alice used the key to encrypt the message. After encrypting the message, you need a key to decrypt it. If you don't have the key, the message is just random looking letters. It is the private key as I've understood that allows to decrypt the message.
 
 
-# d) 
+# d) Password management
 Password managers can create passwords for you, but also store them in a safe place digitally. It is protected by a one password. There can be password manager applications or one can be in the browser. 
 
 The problem is that you might need to use various web services and resources daily and remember many passwords. It is only human trying to simplify them because of the ability to remember limited amount of such passwords. So what typically happens is that we might use the same password or connected passwords in multiple services. And if one password gets compromised, well, then it puts all servicdes using the same password at risk. 
+
+So... Let's download one. I chose this KeyPassXC (download here: https://keepassxc.org/download/#windows). I'll guide you through the installation. So, download the file, and install it.
+<img width="496" height="387" alt="image" src="https://github.com/user-attachments/assets/cc9b7ef1-3758-4479-9ea8-39a9ba76d6f3" />
+
+Accept the terms, and click Next. Just finish te setup (directory, shortcut) and click 'Next'. Then 'Install', and after installation let it update the latest updates. I guess there is a security functionality, but I can't take screenshots of the application.
+
+1) First we need to create a database (my app is in Finnish, but I try to translate it to English. It seems I can't change the language).
+2) Name the database as "Passwords".
+3) I use the recommended database type: KDBX 4.0
+4) You can keep everything else as is and press continue.
+5) Enter the password with which you want to open the password manager, press 'Ready'.
+6) Save the kdbx file into computer
+7) You can then add a new entry by pressing 'Add a new entry' (+ sign circulated)
+8) Add following information
+   - Name of the entry
+   - login name
+   - password
+   - URL address where the login happens
+   - 
+
+
 
 Jyoti & Jeyanthi, 2023. Jyoti, M. & Jeyanthi, N. 2023. A Review of Modern Authentication Methods in Digital Systems. IEEE.
 Sources: Kaspersky. [How to protect your data online by using a password manager]([url](https://www.kaspersky.com/resource-center/preemptive-safety/protecting-your-data-online-password-manager)).
