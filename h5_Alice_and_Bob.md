@@ -119,16 +119,16 @@ Going with these settings.. Name, KARI FOO, with an example email
 
 <img width="484" height="143" alt="image" src="https://github.com/user-attachments/assets/50184083-2f29-4761-8efc-259c69e33ba4" />
 
-Adding password (don't know should I...). Won't share my screenshot of this... You hackers ;)
+Adding password (don't know should I...). Won't share my screenshot of this...
 
 <img width="652" height="201" alt="image" src="https://github.com/user-attachments/assets/70a91842-d3fc-490b-9db4-7cc1af824425" />
 
-So... Now I got a key. There is now my public key to encrypt my messages later on (in the file, I think).
+So... Now I got a key. There is now my public key to encrypt my messages later on. I think its that long string of codes 4390AAF8... and so forth.
 
 Then let's exort the key to a file named karifoo.pub
 <img width="650" height="57" alt="image" src="https://github.com/user-attachments/assets/4a820482-906a-45d9-97a0-c9ec30d24920" />
 
-There is the public key
+There is the public key (in the file I think)
 <img width="632" height="288" alt="image" src="https://github.com/user-attachments/assets/cf4be170-ef85-44bb-8b59-6fba2e81ebe7" />
 
 Let's create a receiving folder for Alice so we can send a message and test our encrypted messaging
@@ -143,12 +143,12 @@ But Alice needs own key, so let's genereate one.
 Let's share the public key with Alice
 <img width="631" height="245" alt="image" src="https://github.com/user-attachments/assets/9cd4223d-2d05-4de2-b604-2a0379062dab" />
 
-We can compare the public keys now with Alice
+We can compare the public keys now with Alice. The Alice key is above (CD75 2C66)...  so forth. My key is below (4390 AAF8...)
 <img width="630" height="235" alt="image" src="https://github.com/user-attachments/assets/b3a9cdb9-6d5a-4a0f-80b4-2499cfe115a8" />
 
-Now Alice will sign the code sent from my ("4390 AAF8 1537...") to basically establish a secure messaging between us. That is because I have createad a key for Alice. Alice has a key for me. Alice now signs the key from me and makes it trusted. 
+Now Alice will sign the code sent from me ("4390 AAF8 1537...") to basically establish a secure messaging between us. That is because I have createad a key for Alice. Alice has a key for me. Alice now signs the key from me and makes it trusted. 
 
-And that's a yes!
+And that's a yes! Match made in heaven.
 
 <img width="637" height="468" alt="image" src="https://github.com/user-attachments/assets/2814bb9f-c8de-41be-b6c2-ce46c7beee21" />
 
@@ -165,14 +165,14 @@ So... While I try to export alice.pub again and again, it asks me to overwrite i
 I don't know... I'll just try and hope it works, if I just continue with the instructions...
 <img width="649" height="194" alt="image" src="https://github.com/user-attachments/assets/c2a71330-3ad9-48dd-98d4-d3b937ad0b7a" />
 
-I think I already lost what I was doing after hour of solving this... But I think now I imported Alice's key.
+After one hour of solving this I already lost what I was doing here... Oh jeez... But I think now I imported Alice's key. I think the problem was with my command that as I was already in the "/alice" directory, I couldn't clal the the "alice/alice.pub .".
 <img width="653" height="285" alt="image" src="https://github.com/user-attachments/assets/baa081bc-367b-428b-8858-06587bf4e812" />
 
 
 All right... Alice is writing me a message
 <img width="634" height="625" alt="image" src="https://github.com/user-attachments/assets/33704f17-3b91-48d3-b0d2-5dce84be7845" />
 
-Had a bit of a problem, but managed to restore my message...
+Had a bit of a problem, but managed to restore my message... I didn't know how to save the .txt file and I didn't see that the answer was all along in the instructions... And then I actually accidentally shut the whole terminal and you can imagine the frustration... So I opened it back and got this point where I try to enter the message.txt file back. It says there is a recovery, so I recover by pressing 'r' and press enter.
 <img width="657" height="455" alt="image" src="https://github.com/user-attachments/assets/519a7b0f-ae2d-4e40-a972-1f61784f4d87" />
 
 So, let's send it then.. The encryption better work... For some reason Linkin Park - 'In the End' song started to play in my head... I've tried so hard, and got so far...
@@ -181,13 +181,13 @@ So, let's send it then.. The encryption better work... For some reason Linkin Pa
 Nothing happened?
 <img width="630" height="101" alt="image" src="https://github.com/user-attachments/assets/15e2107b-cda1-4a5a-9ffd-52d3cbc30680" />
 
-It's there... Should it open?
+Phew... It's there... Should it open?
 <img width="624" height="236" alt="image" src="https://github.com/user-attachments/assets/ca1834bc-10a6-42ed-afbc-2744a50ef912" />
 
 Let's try a bit more...
 <img width="626" height="311" alt="image" src="https://github.com/user-attachments/assets/129edf18-85b3-4d07-9f6b-a69b18f48c81" />
 
-Again this error... I already forgot how I solved it... :-)
+Again this error... I already forgot how I solved it after one hour of smashing my head on the table... :-)
 <img width="639" height="167" alt="image" src="https://github.com/user-attachments/assets/081e9cea-b68b-4f86-8d11-83e76d3e7c32" />
 
 So I had to exit Alice directory..?
@@ -195,7 +195,7 @@ So I had to exit Alice directory..?
 
 Yup... It worked.. Maybe? (Linkin Park playing in the head even harder now...)
 
-I almost forgot the password... Jeez...
+I almost forgot the password... Jeez... Good that I didn't have to start over...
 <img width="882" height="318" alt="image" src="https://github.com/user-attachments/assets/ca7a8925-f0a1-474f-b9e1-31ff78a6759d" />
 
 Holy moly... I opened it... And the message!
