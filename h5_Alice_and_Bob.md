@@ -237,7 +237,10 @@ Accept the terms, and click Next. Just finish te setup (directory, shortcut) and
    - Tags (e.g. Cyber; Cyber Security)
    - Expiry date (optional)
    - Notes (E.g. After graduation from Haaga-Helia University of Applied Sciences this username will stop working)
-   - 
+9) Now you can click on the page where you want to login (like GitHub)
+10) Then have KeyPass open and press 'execute automatic fill'. It will then go to the page where you had the cursor last time clicked (I hope on the username) and fill username and password automatically.
+
+I wanted to record my screen while doing this. Even when using collaboration tools such as Google Meet and sharing the screen, KeyPass is so well protected, that I can not see the whole application in the video.. So no screenshots, no video... 
 
 
 Jyoti & Jeyanthi, 2023. Jyoti, M. & Jeyanthi, N. 2023. A Review of Modern Authentication Methods in Digital Systems. IEEE.
