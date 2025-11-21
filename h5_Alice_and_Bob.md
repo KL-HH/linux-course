@@ -240,8 +240,11 @@ Accept the terms, and click Next. Just finish te setup (directory, shortcut) and
 9) Now you can click on the page where you want to login (like GitHub)
 10) Then have KeyPass open and press 'execute automatic fill'. It will then go to the page where you had the cursor last time clicked (I hope on the username) and fill username and password automatically.
 
-I wanted to record my screen while doing this. Even when using collaboration tools such as Google Meet and sharing the screen, KeyPass is so well protected, that I can not see the whole application in the video.. So no screenshots, no video... 
+I wanted to record my screen while doing this. Even when using collaboration tools such as Google Meet and sharing the screen, the KeyPass is somehow protected from such tools... So I can't see the whole application in the video when recording.. So no screenshots, no video... 
 
+
+Sources:
 
 Jyoti & Jeyanthi, 2023. Jyoti, M. & Jeyanthi, N. 2023. A Review of Modern Authentication Methods in Digital Systems. IEEE.
-Sources: Kaspersky. [How to protect your data online by using a password manager]([url](https://www.kaspersky.com/resource-center/preemptive-safety/protecting-your-data-online-password-manager)).
+
+Kaspersky. [How to protect your data online by using a password manager]([url](https://www.kaspersky.com/resource-center/preemptive-safety/protecting-your-data-online-password-manager)).
