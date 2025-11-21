@@ -22,3 +22,5 @@ By listening to the Hijacked Line episode it makde me think the motivation of th
 
 # c) Strong type of passworldess authentication is needed
 In the h1 assignment I chose to read about passwordless authentication. It got me thinking of ways that how to prevent bank cards, accounts or even identities being stolen. Could artificial intelligence (or more specific machine learning) be able to give us some possibilities in this? Could we built a system, that could analyse your actions (if you allow it to) to verify that you are actually you. We need to continue our way to make it harder for criminals to steal money from regular people. Of course you could say that you don't need to be faster than the bear catching you, just make sure to be faster than your friend when running away.. But should we try to build a system without any bears, or if there will be, then at least they would wear an beacon so we can find it, and make the bear accountable for its actions :-)
+
+Midhuna Jyothi R, and Jeyanthi N. named "A Review of Modern Authentication Methods in Digital Systems" (2023). The article can be read here: https://doi.org/10.1109/AICERA/ICIS59538.2023.10420169.
