@@ -207,7 +207,7 @@ So in the end, what I did in simple words...
 3. We exhcanged the public key info. Alice saved my key as trustworthy. She writes me a message and encrypts it before sending it to me.
 4. I managed to open the message and encrypt the message with my key (after Alice encrypted it, only I can open it).
 
-Very hard assignment for my technical skills... 
+This was quite hard assignment... I was lost for quite a while with the error there... But with some trial and error, I learned a bit mode how to code in the terminal.
 
 So let's say an eavesdropper would try to interfere the messages... Well that person wouldn't be able to decypher the message that Alice wrote to me. That is because Alice used the key to encrypt the message. After encrypting the message, you need a key to decrypt it. If you don't have the key, the message is just random looking letters. It is the private key as I've understood that allows to decrypt the message.
 
