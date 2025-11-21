@@ -230,12 +230,14 @@ Accept the terms, and click Next. Just finish te setup (directory, shortcut) and
 6) Save the kdbx file into computer
 7) You can then add a new entry by pressing 'Add a new entry' (+ sign circulated)
 8) Add following information
-   - Name of the entry
-   - login name
+   - Name of the entry (example: GitHub)
+   - username
    - password
    - URL address where the login happens
+   - Tags (e.g. Cyber; Cyber Security)
+   - Expiry date (optional)
+   - Notes (E.g. After graduation from Haaga-Helia University of Applied Sciences this username will stop working)
    - 
-
 
 
 Jyoti & Jeyanthi, 2023. Jyoti, M. & Jeyanthi, N. 2023. A Review of Modern Authentication Methods in Digital Systems. IEEE.
