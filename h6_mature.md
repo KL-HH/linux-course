@@ -55,6 +55,7 @@ SM: Well our system provides the technical capability to this, but we have not a
 
 CP: I see, '1' again this case again. 
 
+<img width="909" height="588" alt="image" src="https://github.com/user-attachments/assets/6a736731-8515-4e35-b99a-aa333a45db24" />
 
 
 
