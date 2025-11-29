@@ -11,7 +11,11 @@
 
 
 # a) Make-belief analysis
+Next, I will imagine a situation where the cybermeter could be used. I choose discussion between cybersecurity professional (CP) who will lead the discussion, and system manager (SM) responsible for a document management system. I chose "ACCESS" topic from the cybermeter:
 
+CP: Does the users have different identities for the system?
+SM: Yes, we have several access management identities for several diffent roles
+CP: So, fully implemented.
 
 # b) Pros and cons
 Cyber meter can be really usefull in the right hands, such as cyber secrurity professionals. I think it's their responsibility to initiate the discussion of cyber securty in the company using this cyber meter. For small businesses I don't find it useful as it can be quite time consuming to go keep the document updated. But for both, big and small businesses it can provide interesting insights for cyber security. In the right hands, such as cyber security professionals, it can be definitely a strong tool to identify the streghtns and weaknesses of company's cyber security. In it's at everybodys' responsibility to make sure that proper actions are taken for proper cyber security measures.
