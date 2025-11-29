@@ -22,7 +22,9 @@ There are some similar tools or questionnaires with which one can assess the cyb
 
 - One questionnaire type of tool is provided by Ford Foundation: https://www.fordfoundation.org/work/our-grants/building-institutions-and-networks/cybersecurity-assessment-tool/
 
-- 
+- One tool is Cybersecurity Assesmsent Tool (CAT): https://cybercat.tools/
+
+- Then of course there are companies providing the service to assess the cybersecurity level, such as Into Security: https://intosecurity.fi/
 
 
 
