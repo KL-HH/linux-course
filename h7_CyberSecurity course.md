@@ -50,7 +50,7 @@ Introducing the topic of threat modeling.
 ### 4th lecture: Visiting lecturer and threat analysis
 Threats as they are seen in a company by cyber security team. 
 Topics:
-- Cyber security expert presenting cyber security work
+- Cyber security expert presenting cyber security work from a relevant field such as  telecommunications company. 
 - How do we analyse constant threats from the web?
 Home work:
 
@@ -70,15 +70,23 @@ Cyber security in practice
    - Prevent, mitigate and take corrective actions to reduce the damage.
 - Home work: You have been breached. Follow the instructions of this hypothetical situation. Report your actions and chain of thought you have taken to prevent, mitigate and to improve the situation.
 
-### 7th lecture: Visiting lecturer
+### 7th lecture
+Designing anti-virus and other threat detecting softwares
+- Topic:
+   - How does the anti-virus system work in practice?
+   - How can the malware be detected?
+   - What can we do without such tools?
+- Home work: What ways there are to protect against the malware? What would be your way in ideal world?
+
+### 8th lecture: Presentations of your case work (from lecture 2)
 This lecture includes a visiting lecturer of the Withsecure company.
 - Topic: 
     - A day in the cyber security professionals life
+    - how do we detect the new malware?
     - how cyber security professionals work to protect our data against the newest or yet to be discovered threats? 
-- Home work: Write a short summary and your own thoughts of the topic.
-
-### 8th lecture: Presentations of your case work (from lecture 2)
-This lecture includes students presentation about their chosen topic in lecture 2. Each
+- Home work:
+    - Write a short summary and your own thoughts of the topic.
+    - Give feedback of the course 
 
 
 
