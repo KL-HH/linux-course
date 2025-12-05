@@ -48,7 +48,9 @@ Introducing the topic of threat modeling.
 - Assignment: Choose at least three topics of the cyber security meter. Think the topics from your own company's perspective or hypothetical situation. Write also comments so teacher can follow the chain of thoughts. Chosen values are doesn't need to be true, as long as they are relevant for you. 
 
 ### 4th lecture: Visiting lecturer
-- How do we analyse constant threats from the web? 
+Threats as they are seen in a company by cyber security team
+- How do we analyse constant threats from the web?
+- Content: Visitn
 
 ### 5th lecture: Analyzing the 
 
