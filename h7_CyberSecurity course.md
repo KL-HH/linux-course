@@ -3,9 +3,11 @@ The following will represent my thoughts of a cyber security course of my dreams
 # Cyber Security course
 
  In this course, you will
-- get an overview of cyber security and the defence mechanism related to that
+- get an overview of cyber security
+- learn how to analyse your company's cyber security level
 - learn how to protect your company information
-- learn how to analyse (possible) threats with some hand on exercises.
+- learn how to analyse (possible) and prevent threats with some hand on exercises.
+- learn how anti-malware systems work technically
 
 Each lesson lasts approximately 3 hours (with 2 x 15 min breaks)
 
