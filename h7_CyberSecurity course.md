@@ -1,6 +1,6 @@
 The following will represent my thoughts of a cyber security course of my dreams.
 
-# Defence Cyber Security course
+# Cyber Security course
 
  In this course, you will
 - get an overview of cyber security and the defence mechanism related to that
