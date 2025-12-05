@@ -99,8 +99,3 @@ A designated day when we follow remotely for few hours of cyber security profess
 (if you aren't able to attend, please see documentary of similar topic, and write 1 page essay about it).
 
 (RATIONALE: Get to see the work in action. Interesting opportunity to follow someone at work. Don't know how feasible this is, but would be interesting anyways.)
-- Encryption
-- Authentication
-- Student presentations
-
-## Content
