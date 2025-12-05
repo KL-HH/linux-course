@@ -2,7 +2,8 @@ The following will represent my thoughts of a cyber security course of my dreams
 
 # Defence Cyber Security course
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e9ce89c4-936e-43a8-8f77-8491eb792bfc" />
+![Nimetön piirustus](https://github.com/user-attachments/assets/cb606234-d91c-43e4-a49f-bc3d37aa08c1)
+
 
  In this course, you will
 - get an overview of cyber security and the defence mechanism related to that
