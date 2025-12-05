@@ -31,7 +31,7 @@ Student presentations. Rest of the lecture we will discuss about the importance 
 - Topics:
    - What kind of vulnerabilities are out there?
    - Where are the attacks pointed at? What motivates the attacks?
-- Home work: Write a short analysis (about 5 pages) on the potential security threats in your job role or job role you are particularly interested of. Deadline in two weeks.
+- Home work: Write a short analysis (about 5 pages) on the potential security threats in your job role or job role you are particularly interested of. Deadline in three weeks. Make a presentation
 
 ### 3rd lecture: Threat modeling
 Introducing the topic of threat modeling. 
@@ -45,22 +45,42 @@ Introducing the topic of threat modeling.
       - technical expert is: "You are the leading technical expert of a critical system of your company (choose the system). After several acquisitions the company is struggling with aligning the system's information flow, assets, access management, and third-party collaboration. The users are not familiar with the new standards and workflows, and you see this in practice as data quality is getting worse and ticket level is rising fast. Some technical dependencies have issues, and some hardware components are getting old. Company's internal instructions are sometimes contradicting and you are manouvering in a difficult situation. Business is pushing development ideas to keep up with the business needs. At the moment, you need to prioritize a lot, but the company has only limited amount to resources to help (money and workforce)"
       - business representative is: "With new acquisitions the business has expanded giving some new opportunities. You can not be happier with the work nowadays. You feel that everything is better. From your perspective you would require more agile ways of working. No more instructions, as it's already too tough to navigate in the bureaucracy, slowing down the business giving room to competitors. The current tools are good enough, and you see no problem in that as work is getting done now in agile way, which you value. Money situation is scarse. Next two years no new development work or purchases are done, if possible. Working with stakeholders goes very well, and from your side the quality has improved."
       - facilitator's description is: "be critical, ask questions. Your role is to try to find the truth, and try to report the underlying issues from all sides. The situation might not be as bad as someone says, or not so good either."
-- Assignment: Choose at least three topics of the cyber security meter. Think the topics from your own company's perspective or hypothetical situation. Write also comments so teacher can follow the chain of thoughts. Chosen values are doesn't need to be true, as long as they are relevant for you. 
+- Home work: Choose at least three topics of the cyber security meter. Think the topics from your own company's perspective or hypothetical situation. Write also comments so teacher can follow the chain of thoughts. Chosen values are doesn't need to be true, as long as they are relevant for you. 
 
-### 4th lecture: Visiting lecturer
-Threats as they are seen in a company by cyber security team
+### 4th lecture: Visiting lecturer and threat analysis
+Threats as they are seen in a company by cyber security team. 
+Topics:
+- Cyber security expert presenting cyber security work
 - How do we analyse constant threats from the web?
-- Content: Visitn
+Home work:
 
-### 5th lecture: Analyzing the 
+### 5th lecture: Threat analysis in action
+Cyber security in practice
+- Topic:
+  - Threat analysis
+    - Scanning from the perspective of malicious attack
+    - Scanning from the perspective of the defender
+- Home work: There is a hypothetical attack. Follow the instructions of this hypothetical situation. Report your actions and chain of thought you have taken to prevent, mitigate and to improve the situation.
 
 ### 6th lecture
+Cyber security in practice
+- Topic: cyber breach ongoing
+   - Analyse the situation
+   - Take defensive measures
+   - Prevent, mitigate and take corrective actions to reduce the damage.
+- Home work: You have been breached. Follow the instructions of this hypothetical situation. Report your actions and chain of thought you have taken to prevent, mitigate and to improve the situation.
 
 ### 7th lecture: Visiting lecturer
-A day in the cyber security professionals life: how they work to protect our data against the newest threats? This lecture includes a visiting lecturer of the Withsecure company.
-- Write a short summary and your own thoughts of the topic.
+This lecture includes a visiting lecturer of the Withsecure company.
+- Topic: 
+    - A day in the cyber security professionals life
+    - how cyber security professionals work to protect our data against the newest or yet to be discovered threats? 
+- Home work: Write a short summary and your own thoughts of the topic.
 
-8th lecture
+### 8th lecture: Presentations of your case work (from lecture 2)
+This lecture includes students presentation about their chosen topic in lecture 2. Each
+
+
 
 ## Objectives
 - Threat modeling
